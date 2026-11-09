@@ -1,0 +1,8 @@
+{
+  "name": "Wedaura Photography",
+  "description": "Editorial wedding, event, and portrait photography portfolio with curated gallery, package guide, and booking inquiry by Kevin & Lakmal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
